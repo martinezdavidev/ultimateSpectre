@@ -8,4 +8,25 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Inicio.unity
     guid: 5d5463bb80dde8346bf627c8df5a904c
+  - enabled: 1
+    path: Assets/Scenes/PantallaPP.unity
+    guid: b5bea9eec348cf5408e1ffc56a8805ea
+  - enabled: 1
+    path: Assets/Scenes/Arcade.unity
+    guid: e6a23e61650ef6a419da83487879bb57
+  - enabled: 1
+    path: Assets/Scenes/1vs1.unity
+    guid: 22a065c36179c1b4e9645539648390e4
+  - enabled: 1
+    path: Assets/Scenes/Configuracion.unity
+    guid: d290d4bc09d2d6141860f8851e3be38e
+  - enabled: 1
+    path: Assets/Scenes/Controles.unity
+    guid: 136db3241fd761e4b848f007f30e911d
+  - enabled: 1
+    path: Assets/Scenes/ConfPantalla.unity
+    guid: db8073808b63f3749900f84837dc319f
+  - enabled: 1
+    path: Assets/Scenes/CinfSonido.unity
+    guid: 1caaf9e58bfef3940b86180cbf22a9ee
   m_configObjects: {}
