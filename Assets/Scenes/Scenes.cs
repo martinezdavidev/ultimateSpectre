@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class Scenes : MonoBehaviour
 {
-    public void pantallaPrincipal() // Carga la esena principal del juego -tambien se usa para volver atras desde confi
+    public void pantallaPrincipal() // Carga la esena principal del juego -tambien se usa para volver atras desde confi, 1vs1 y arcade
     {
         SceneManager.LoadScene(1);
     }
