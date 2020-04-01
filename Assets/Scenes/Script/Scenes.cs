@@ -12,6 +12,7 @@ public class Scenes : MonoBehaviour
     public void Arcade() // Carga la esena seleccion de personajes modo arcade (un jugador) vs UPC 
     {
         SceneManager.LoadScene(2);
+        
     }
     public void OnevsOne() // Carga la esena seleccion de personajes modo 1 vs 1 
     {
