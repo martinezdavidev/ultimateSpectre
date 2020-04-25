@@ -38,4 +38,9 @@ public class Scenes : MonoBehaviour
     {
         SceneManager.LoadScene(8);
     }
+    public void prueba()
+    {
+        SceneManager.LoadScene(10);
+    }
+    
 }
