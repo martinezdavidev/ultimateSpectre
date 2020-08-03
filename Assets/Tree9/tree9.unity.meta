@@ -1,6 +1,16 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<< HEAD:Assets/Tree9/tree9.unity.meta
 guid: 41ed07a01030f594b8b9ea974b35ebec
 timeCreated: 1453801963
+=======
+guid: f056d6bf9636129469ae043ed2579995
+timeCreated: 1489098911
+>>>>>>> parent of 1fa898b... pull:Assets/PBR Ground Materials #1 [Dirt& Grass]/Demo/DemoScene.unity.meta
+=======
+guid: 41ed07a01030f594b8b9ea974b35ebec
+timeCreated: 1453801963
+>>>>>>> parent of 1fa898b... pull
 licenseType: Store
 DefaultImporter:
   userData: 

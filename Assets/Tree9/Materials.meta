@@ -1,7 +1,19 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<< HEAD:Assets/Tree9/Materials.meta
 guid: 0b126e19a3d99c442b1dd5a8f8f4f143
 folderAsset: yes
 timeCreated: 1453801914
+=======
+guid: 84d0017ec34ec9b439a1de332d0ed9dc
+folderAsset: yes
+timeCreated: 1489098111
+>>>>>>> parent of 1fa898b... pull:Assets/PBR Ground Materials #1 [Dirt& Grass]/Materials.meta
+=======
+guid: 0b126e19a3d99c442b1dd5a8f8f4f143
+folderAsset: yes
+timeCreated: 1453801914
+>>>>>>> parent of 1fa898b... pull
 licenseType: Store
 DefaultImporter:
   userData: 

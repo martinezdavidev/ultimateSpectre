@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<< HEAD:Assets/PBR Ground Materials #1 [Dirt& Grass].meta
 guid: b1145c6cb7e504648a2692a42a1808fa
+=======
+guid: 264f45cb53660e641be7f562bc1823c3
+>>>>>>> parent of 1fa898b... pull:Assets/HandPaintedBushPack/Models.meta
+=======
+guid: b1145c6cb7e504648a2692a42a1808fa
+>>>>>>> parent of 1fa898b... pull
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

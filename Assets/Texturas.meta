@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<< HEAD:Assets/Texturas.meta
 guid: 6a8b55a7eef713a45a9b12254cfffaf6
+=======
+guid: 3cebb0b2cdb96024db0726f5207e4767
+>>>>>>> parent of 1fa898b... pull:Assets/Scenes/sound.meta
+=======
+guid: 6a8b55a7eef713a45a9b12254cfffaf6
+>>>>>>> parent of 1fa898b... pull
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

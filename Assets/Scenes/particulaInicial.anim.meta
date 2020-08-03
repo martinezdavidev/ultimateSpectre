@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<< HEAD:Assets/Scenes/particulaInicial.anim.meta
 guid: d71a91e85be63924c9163b65f2e9d9df
+=======
+guid: 7899f147fc39f7a4289029e13bcf3ae4
+>>>>>>> parent of 1fa898b... pull:Assets/Scenes/Cube.controller.meta
+=======
+guid: d71a91e85be63924c9163b65f2e9d9df
+>>>>>>> parent of 1fa898b... pull
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 0

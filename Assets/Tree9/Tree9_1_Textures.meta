@@ -1,7 +1,19 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<< HEAD:Assets/Tree9/Tree9_1_Textures.meta
 guid: 8d139c15c7ee7f949a8d3cb34eb9f16f
 folderAsset: yes
 timeCreated: 1453801914
+=======
+guid: 2a2d029c2e8e41a449f8a35591f80b5b
+folderAsset: yes
+timeCreated: 1489097700
+>>>>>>> parent of 1fa898b... pull:Assets/PBR Ground Materials #1 [Dirt& Grass]/Textures.meta
+=======
+guid: 8d139c15c7ee7f949a8d3cb34eb9f16f
+folderAsset: yes
+timeCreated: 1453801914
+>>>>>>> parent of 1fa898b... pull
 licenseType: Store
 DefaultImporter:
   userData: 

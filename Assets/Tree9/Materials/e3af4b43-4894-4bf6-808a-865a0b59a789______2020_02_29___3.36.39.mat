@@ -7,7 +7,15 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
+<<<<<<< HEAD:Assets/Tree9/Materials/e3af4b43-4894-4bf6-808a-865a0b59a789______2020_02_29___3.36.39.mat
   m_Name: e3af4b43-4894-4bf6-808a-865a0b59a789______2020_02_29___3.36.39
+=======
+  m_Name: verde
+>>>>>>> parent of 1fa898b... pull:Assets/Tree9/Materials/verde.mat
+=======
+  m_Name: e3af4b43-4894-4bf6-808a-865a0b59a789______2020_02_29___3.36.39
+>>>>>>> parent of 1fa898b... pull
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -73,5 +81,13 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
+<<<<<<< HEAD
+<<<<<<< HEAD:Assets/Tree9/Materials/e3af4b43-4894-4bf6-808a-865a0b59a789______2020_02_29___3.36.39.mat
     - _Color: {r: 1, g: 1, b: 1, a: 1}
+=======
+    - _Color: {r: 0.2961463, g: 0.5188679, b: 0.45033818, a: 1}
+>>>>>>> parent of 1fa898b... pull:Assets/Tree9/Materials/verde.mat
+=======
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+>>>>>>> parent of 1fa898b... pull
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}

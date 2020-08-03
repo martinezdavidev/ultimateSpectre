@@ -1,6 +1,16 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<< HEAD:Assets/Tree9/Materials/leaf.mat.meta
 guid: 3b81562ccc7e92543a108e811251a16f
 timeCreated: 1453384415
+=======
+guid: a398c3c5fc65e4645966749a9fc7c21f
+timeCreated: 1489099023
+>>>>>>> parent of 1fa898b... pull:Assets/PBR Ground Materials #1 [Dirt& Grass]/Materials/Dirt/Dirt_01.mat.meta
+=======
+guid: 3b81562ccc7e92543a108e811251a16f
+timeCreated: 1453384415
+>>>>>>> parent of 1fa898b... pull
 licenseType: Store
 NativeFormatImporter:
   userData: 

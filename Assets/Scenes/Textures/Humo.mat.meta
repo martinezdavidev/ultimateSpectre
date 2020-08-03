@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<< HEAD:Assets/Scenes/Textures/Humo.mat.meta
 guid: 2ad9655b9f77f1e41b570c08092b7355
+=======
+guid: 037a970b6633c7b48b30471c6bbf8cc4
+>>>>>>> parent of 1fa898b... pull:Assets/HandPaintedBushPack/Materials/bush_d2.mat.meta
+=======
+guid: 2ad9655b9f77f1e41b570c08092b7355
+>>>>>>> parent of 1fa898b... pull
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 0
